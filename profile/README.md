@@ -1,6 +1,6 @@
 # Memes Token
 
-Welcome to the official GitHub repository for [Memes Token](https://memestoken.com), a decentralized token on the Ethereum blockchain.
+👋 Welcome to the official GitHub repository for [Memes Token](https://memestoken.com), a decentralized token on the Ethereum blockchain.
 
 ## About Memes Token
 
@@ -36,4 +36,4 @@ We welcome contributions from developers and enthusiasts alike. Here's how you c
 
 ---
 
-Memes Token is more than a token; it's a movement. Join us in building the future of decentralized social media with Banterr! And stay on watch for our next dapps!
+Memes Token is more than a token; it's a movement. Join us in building the future of decentralized social media with Banterr! And stay tuned for our upcoming DApps!
