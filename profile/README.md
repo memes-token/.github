@@ -8,7 +8,7 @@ Memes Token is a unique Ethereum-based token that powers our decentralized appli
 
 ### Banterr
 
-[Banterr](https://banterr.app) is our innovative decentralized application (DApp) that offers users a unique experience in meme sharing and social interaction. Banterr combines decentralized and centralized components. It utilizes IPFS for efficient and secure file sharing, while leveraging blockchain technology for creating and awarding PostNFTs. Users can mint PostNFTs using $MEMES by bridging them from Ethereum to Arbitrum Nova, and awards can also be purchased with $MEMES on Arbitrum Nova.
+[Banterr](https://banterr.app) is our innovative decentralized application (DApp) that offers users a unique experience in meme sharing and social interaction. Banterr combines decentralized and centralized components. It utilizes IPFS for efficient and secure file sharing, while leveraging blockchain technology for creating and awarding PostNFTs. Users can mint PostNFTs using $MEMES by bridging them from Ethereum to Arbitrum One, and awards can also be purchased with $MEMES on Arbitrum One.
 
 ## Getting Started
 
